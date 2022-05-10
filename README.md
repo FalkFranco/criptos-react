@@ -16,7 +16,7 @@ For learning purposes, I created an application that quotes the price of cryptoc
 1. Clone or download the repository 
 
 ```bash
-git clone https://github.com/FalkFranco/criptos-react.git
+git clone https://github.com/FalkFranco/pokemon-react.git
 ```
 2. Change the working directory
 
